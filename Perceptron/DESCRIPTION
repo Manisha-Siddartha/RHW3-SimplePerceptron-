@@ -1,0 +1,11 @@
+Package: simpleperceptron
+Type: Package
+Title: Accepts input data frame partitions both 2d and 3d data.
+Version: 0.1.0
+Author: manisha
+Maintainer: The package maintainer <manisha-siddartha.nalla@ttu.edu>
+Description: Accepts input data frame partitions both 2d and 3d data.The data frame should contain class label as its first column.It has two functions percep2d(x) which plots 2d data and percep3d(x) that plots 3d data.
+    Use four spaces when indenting paragraphs within the Description.
+License: authorized users
+Encoding: UTF-8
+LazyData: true
